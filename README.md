@@ -9,4 +9,5 @@ console.log(songs);
 
 ========> see output :
 3
+
 [ 'Dangerous', 'Thriller', 'Stranger In Moscow' ]
